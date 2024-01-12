@@ -5,7 +5,7 @@ import './App.css';
 import Collapsible from './Collapsible';
 
 const openai = new OpenAI({
-  apiKey: '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',
+  apiKey: '***',
   dangerouslyAllowBrowser: true
 });
 
